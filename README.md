@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://te.legra.ph/file/55e2183f88da291676de7.jpg" 
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>KK Bot</b>
 </h1>
 
 
@@ -58,7 +58,7 @@ You can deploy this bot anywhere.
 <p>
 
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/EvaMaria )
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/KKMovies/EvaMaria )
 
 </p>
 </details>
